@@ -1,0 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    background-color: rgba(1, 1, 1, 0.8); border-bottom: 1px #b6895b;
+}
